@@ -1,4 +1,4 @@
-# Python
+# Python Compiler
 This application requires Python to be installed. After starting the application, the Python code to be tested can be executed directly in the program. All console output that relates to the code to be tested that was entered in the lower text field is then displayed in the upper text field of the program. The code entered is saved in the PythonApp.py file in the program folder at the same time. Depending on your needs, if the code works and you like it. By clicking on Create EXE the code can be created as a program.
 
 Attention: Please note, all code input that is tested is saved in PythonApp.py. Please make sure that the code to be created for the executable uses a newly created PythonApp.py that was only created with the code. To do this, simply delete the old file in the folder and test the code again in the program.
